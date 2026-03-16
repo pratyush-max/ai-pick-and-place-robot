@@ -1,2 +1,4 @@
-
-# Placeholder file for module
+ultralytics
+opencv-python
+numpy
+pyserial

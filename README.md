@@ -2,37 +2,36 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-Embedded-00979D?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-UNO-00979D?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Initial%20Phase-orange?style=for-the-badge)
 
 ---
 
 ## 🚀 Overview
 
-A beginner-friendly **AI-powered robotic system** that combines **computer vision** and **hardware automation** to perform **pick-and-place operations** using a robotic arm.
+This project is an **AI-powered robotic pick-and-place system** that integrates:
 
-This project demonstrates how **AI + Embedded Systems** can be integrated to solve real-world automation problems.
+- 🧠 Computer Vision (OpenCV)
+- 🤖 Embedded Systems (Arduino)
+- ⚙️ Automation (Servo Motors)
+
+The system detects objects using a camera and performs automated pick-and-place operations using a robotic arm.
 
 ---
 
 ## 🎯 Problem Statement
 
-Traditional robotic arms operate on predefined instructions and lack adaptability.
+Traditional robotic arms:
+- Work on fixed instructions  
+- Lack adaptability  
+- Cannot respond to real-time environments  
 
-👉 This project aims to build a system that:
-- Detects objects using a camera  
-- Makes intelligent decisions  
-- Controls a robotic arm to perform pick-and-place tasks  
+👉 This project solves that by introducing **AI-based object detection + automation**
 
 ---
 
-## 🧠 Key Features
-
-- 📷 Real-time object detection using camera
-- 🤖 Automated pick-and-place mechanism
-- 🔌 Integration of Python with Arduino
-- ⚡ Simple AI-based decision making
-- 🔄 Real-time communication between vision and hardware
+## 🧠 System Architecture
+hardware
 
 ---
 

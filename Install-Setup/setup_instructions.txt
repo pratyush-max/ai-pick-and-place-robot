@@ -1,0 +1,10 @@
+1. Install Python.
+2. Open Command Prompt.
+3. Run:
+
+python -m pip install -r requirements.txt
+
+4. Download yolov8n.pt model file.
+5. Keep yolov8n.pt in the project folder or update the path in Python code.
+6. Connect Arduino to laptop and note the COM port.
+7. Close Arduino Serial Monitor before running Python serial code.
